@@ -1,6 +1,6 @@
-Game-Launcher
---------------------- ABOUT THE GAME LAUNCHER ------------------------
-With the games: brick breakers, tic-tac-toe, snake and tetris 
+# Game-Launcher
+--------------------- ABOUT THE GAME LAUNCHER ------------------------  
+With the games: brick breakers, tic-tac-toe, snake and tetris
 With the apps: calculator, stopwatch and text editor 
 Themes, and hyperlinks
 
